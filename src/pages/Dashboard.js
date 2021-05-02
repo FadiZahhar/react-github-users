@@ -8,6 +8,7 @@ const Dashboard = () => {
       <Navbar></Navbar>
       <Search />
       <User />
+      <Info />
       <Repos />
     </main>
   );
